@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\github-source\\TestHorizontalListView\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\github-source\\TestHorizontalListView1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

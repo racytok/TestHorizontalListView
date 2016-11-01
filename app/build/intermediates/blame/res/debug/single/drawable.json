@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_background.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\src\\main\\res\\drawable\\selector_item_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_background.xml",
+        "source": "D:\\github-source\\TestHorizontalListView\\app\\src\\main\\res\\drawable\\selector_item_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_background.xml",
+        "source": "D:\\github-source\\TestHorizontalListView1\\app\\src\\main\\res\\drawable\\selector_item_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_imageview_background.xml",
+        "source": "D:\\github-source\\TestHorizontalListView\\app\\src\\main\\res\\drawable\\selector_imageview_background.xml"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_imageview_background.xml",
+        "source": "D:\\github-source\\TestHorizontalListView1\\app\\src\\main\\res\\drawable\\selector_imageview_background.xml"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_imageview_background.xml",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\src\\main\\res\\drawable\\selector_imageview_background.xml"
+    }
+]

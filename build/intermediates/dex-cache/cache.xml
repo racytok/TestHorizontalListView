@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TestHorizontalListView\app\libs\clentapi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1efff27a0ac3ceaa853631dad9f9cf210e797c3d">
+        <dex dex="D:\github-source\TestHorizontalListView\app\build\intermediates\pre-dexed\debug\clentapi_2f52d7dcb845f0bc77ec9486c93a73bb68096655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\github-source\TestHorizontalListView\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_d078e6a59736c23ae6ea3898cc40d3e14c3d1aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TestHorizontalListView\app\libs\SDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6f3cdc572ddfd37a19f1c1fdb96cda324e8a12a">
+        <dex dex="D:\github-source\TestHorizontalListView\app\build\intermediates\pre-dexed\debug\SDK_84ee6374fd987e98861224ce722ef961066e7ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TestHorizontalListView\app\libs\RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="D:\github-source\TestHorizontalListView\app\build\intermediates\pre-dexed\debug\RootTools_6fc7d3baa01795e3c4f2e6bdc12c5b8b239104e5.jar" />
+    </item>
+
+</items>

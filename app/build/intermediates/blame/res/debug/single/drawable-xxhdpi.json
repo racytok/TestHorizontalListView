@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\TestHorizontalListView\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\home\\xiangyun\\AndroidTestCodes\\TestHorizontalListView1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\TestHorizontalListView1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\TestHorizontalListView1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
